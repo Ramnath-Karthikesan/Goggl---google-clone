@@ -1,3 +1,9 @@
+# Goggl - A google clone 
+
+This project mimics google's search functionalities. The site can render only upto 100 searches per day
+
+website link: https://deluxe-cassata-097514.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
