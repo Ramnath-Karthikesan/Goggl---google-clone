@@ -2,7 +2,7 @@
 
 This project mimics google's search functionalities. The site can render only upto 100 searches per day
 
-website link: https://deluxe-cassata-097514.netlify.app/
+website link: https://goggl-googleclone.netlify.app/search
 
 # Getting Started with Create React App
 
